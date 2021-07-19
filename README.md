@@ -26,3 +26,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 2021-07-19
 ```
 Vue3 최초 세팅 파일
+```
+
+### directory structure
+
+
